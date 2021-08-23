@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Amantechcse
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Aman
+- 👀 I’m interested in software devloping
+- 🌱 I’m currently learning python, java 
+- 💞️ I’m looking to collaborate on internship
+- 📫 contact 7082357039 or aman.techcse@gmail.com
 
 <!---
 Amantechcse/Amantechcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
